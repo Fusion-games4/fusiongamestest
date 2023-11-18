@@ -46,5 +46,5 @@ body {
 Nav bar html:
 <div class="topnav">
             <a href="index.html">Home</a>
-            <a href="games/index.html">Games</a>
+            <a href="games/Index.html">Games</a>
           </div>
