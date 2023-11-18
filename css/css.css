@@ -1,8 +1,5 @@
-Nav icon: <a href="Link">Nav button name</a>
-
-theme:
 body {
-    background-image: url("imgs/fusion-background.png");
+    background-image: url("imgs/fusion-background");
   }
   h1 {
     color: white;
