@@ -80,3 +80,9 @@ Nav bar html:
             <a href="index.html">Home</a>
             <a href="games/Index.html">Games</a>
           </div>
+
+Button html:
+<a href="https://www.youtube.com/watch?v=Yb6dZ1IFlKc" target="_blank">
+            <button>
+                    Click me!
+            </button>
