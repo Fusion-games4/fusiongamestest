@@ -43,8 +43,46 @@ body {
   color: white;
 }
 
+button{
+                    padding-top:20px;
+                    padding-left:61px;
+                    padding-bottom:20px;
+                    padding-right:61px;
+                    border-radius:40px;
+                    background-color:rgb(0, 200, 20);
+                    font-family: 'Kdam Thmor Pro', sans-serif;
+                    font-size: large;
+                    color: white;
+                    box-shadow: 0px 11px 5px 0px rgb(64,62,62);
+-webkit-box-shadow: 0px 11px 5px 0px rgb(64,62,62);
+-moz-box-shadow: 0px 11px 5px 0px rgb(75, 74, 74);
+                    transition: background-color 0.8s;
+                    border: none;
+                
+                    
+
+                }
+
+                button:hover{
+                    background-color:rgba(2, 157, 18, 0.834);
+                    
+                }
+
+                button:active{
+                    box-shadow: -2px 5px 5px 0px rgba(64,62,62,0.0.75);
+-webkit-box-shadow: -2px 5px 5px 0px rgba(64,62,62,0.75);
+-moz-box-shadow: -2px 5px 5px 0px rgba(64,62,62,0.75);
+                  margin-top: 3px;
+                }
+
 Nav bar html:
 <div class="topnav">
             <a href="index.html">Home</a>
             <a href="games/Index.html">Games</a>
           </div>
+
+Button html:
+<a href="https://www.youtube.com/watch?v=Yb6dZ1IFlKc" target="_blank">
+            <button>
+                    Click me!
+            </button>
